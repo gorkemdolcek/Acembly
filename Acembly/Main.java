@@ -65,3 +65,5 @@ class KategoriGUI extends JFrame implements ActionListener {
         }
     }
 }
+
+//signature de Dolcek
